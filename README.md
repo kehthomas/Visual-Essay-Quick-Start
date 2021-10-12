@@ -34,6 +34,16 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
+## Image
+
+_Jan Vermeer_ (Dutch: De jonge Vermeer) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
+dated c. 1656. Supposedly the only existing portrait of Johannes Vermeer. This is a faithful photographic reproduction.[^1]
+<param ve-image 
+       label="Johannes Vermeer" 
+       description="self-portrait by Johannes Vermeer" 
+       license="public domain" 
+       url="https://en.wikipedia.org/wiki/Johannes_Vermeer#/media/File:Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg">
+
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
