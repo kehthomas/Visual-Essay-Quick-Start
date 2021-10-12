@@ -1,11 +1,11 @@
 # Visual-Essay-Quick-Start
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://preview.redd.it/n2xp6dxxj9x31.jpg?auto=webp&s=d207b9a3bedac17fb1071119388be0d3e8346b47"></a>
 
 <param ve-config 
        title="girl with very nice clam spit"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
-       layout="vertical">
+       author=" "
+       banner="https://preview.redd.it/n2xp6dxxj9x31.jpg?auto=webp&s=d207b9a3bedac17fb1071119388be0d3e8346b47" 
+       layout="horizontal">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
