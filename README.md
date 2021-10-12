@@ -1,5 +1,5 @@
 # Visual-Essay-Quick-Start
-<a href="https://juncture-digital.org"><img src="https://preview.redd.it/n2xp6dxxj9x31.jpg?auto=webp&s=d207b9a3bedac17fb1071119388be0d3e8346b47"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
        title="girl with very nice clam spit"
